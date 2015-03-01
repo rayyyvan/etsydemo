@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.0'
 # gem 'capistrano-rails', group: :development
 gem 'bootstrap-sass', '~> 3.3.3'
 gem "paperclip", "~> 4.2.1"
+gem "paperclip-dropbox", ">= 1.1.7"
 
 group :production do
   gem 'pg'
